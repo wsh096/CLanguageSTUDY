@@ -4,5 +4,6 @@ typedef char * String;
 
 int main(void){
   String exampleStr = "Hello";
-  printf("%s", exampleStr");
+  printf("%s", exampleStr);
+  return 0;
 }
